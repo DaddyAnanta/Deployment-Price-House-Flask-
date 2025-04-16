@@ -1,0 +1,22 @@
+{
+  "name": "flask-and-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legioncomnander/HousePriceFlask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Legioncomnander/HousePriceFlask/issues"
+  },
+  "homepage": "https://github.com/Legioncomnander/HousePriceFlask#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
