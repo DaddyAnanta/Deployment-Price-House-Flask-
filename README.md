@@ -12,8 +12,8 @@ Selamat datang di proyek deployment model prediksi harga rumah menggunakan frame
 
 1.  **Clone Repository (jika ada)**
     ```bash
-    git clone [URL_REPOSITORY_ANDA]
-    cd [NAMA_FOLDER_REPO]
+    git clone URL_REPOSITORY_ANDA]](https://github.com/DaddyAnanta/Deployment-Price-House-Flask-
+    cd Deployment-Price-House-Flask-
     ```
 
 2.  **Buat Virtual Environment (Opsional tapi disarankan)**
